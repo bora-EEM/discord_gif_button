@@ -21,4 +21,5 @@ hides the gif and adds a button if you sure you want to see it
 
 you can hide it again if you regret your choice
 
-![image](https://github.com/user-attachments/assets/5e696d34-ca60-4c0b-8f12-1c51d3919cf6)
+![image](https://github.com/user-attachments/assets/38026337-ff1f-4028-a57d-8e6284014eca)
+

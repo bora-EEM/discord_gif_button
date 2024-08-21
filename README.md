@@ -8,8 +8,11 @@ thank me later
 
 
 .
+
 .
+
 .
+
 
 
 hides the gif and adds a button if you sure you want to see it

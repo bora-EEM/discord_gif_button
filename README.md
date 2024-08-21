@@ -7,9 +7,9 @@ install this plugin and save your eyes
 thank me later
 
 
-
-/n
-
+.
+.
+.
 
 
 hides the gif and adds a button if you sure you want to see it

@@ -12,7 +12,7 @@ class GifBlocker {
                 name: "GifButton",
                 authors: [
                     {
-                        name: "bora",
+                        name: "bora_.",
                         discord_id: "315871450869530624",
                     }
                 ],
